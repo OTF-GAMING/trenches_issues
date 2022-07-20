@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: "[BUG REPORT]"
+labels: bug
+assignees: cameeob2003, NBSL
 
 ---
 
